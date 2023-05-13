@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  width: 20rem;
+  height: 10rem;
+  background-color: burlywood;
+  margin-right: auto;
+  margin-left: auto;
+}
+.counter {
+  margin-top: 2rem;
+  font-size: xx-large;
+  font-weight: 600;
+}
+.timer {
+  margin-top: 1.5rem;
+  font-weight: 600;
+}
+button {
+  margin-top: 1rem;
+}
